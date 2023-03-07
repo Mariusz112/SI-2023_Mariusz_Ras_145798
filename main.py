@@ -218,4 +218,4 @@ for i in range(len(plik)):
     print()
 
 
-print("\nMariusz Raś II  IO\n")
+print("\nMariusz Raś IIGR  IO\n")
